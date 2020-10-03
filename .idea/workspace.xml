@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e39ec5bd-d2db-4e9e-9179-b1f89253ac4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/personal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Desktop/Desktop.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Desktop/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Dock/Dock.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Dock/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/DragWrapper/DragWrapper.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/DraggableFile/DraggableFile.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/DraggableFile/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/File/File.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/File/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/FileDragPreview/FileDragPreview.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/FileDragPreview/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Window/Window.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/Window/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1iNXYbOEYC7UnHplH0PQ8Tvi3kW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39ec5bd-d2db-4e9e-9179-b1f89253ac4f" name="Default Changelist" comment="" />
+      <created>1601749071447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601749071447</updated>
+      <workItem from="1601749072505" duration="3565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
